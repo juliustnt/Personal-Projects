@@ -1,3 +1,5 @@
-# Personal-Projects
-
-Just random projects from the past or from the present
+<p align="center">
+<a href="https://github.com/juliustnt">
+    <img src="something.svg"/>
+</a>
+</p>
