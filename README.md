@@ -1,1 +1,1 @@
-<img src="julius.svg">
+<center><img src="julius.svg"></center>
