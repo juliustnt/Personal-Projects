@@ -526,7 +526,7 @@
                 line-height:1.4;
                 font-family:'Consolas','BitstreamVeraSansMono','CourierNew',Courier,monospace;
                 font-size:1px;
-                margin-left:27;
+                margin-left: 27px;
                 border-width:1px;
                 border-style:solid;
                 border-color:lightgray;
