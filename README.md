@@ -1,1 +1,3 @@
-<center><img src="julius.svg"></center>
+<p align="center">
+<img src="julius.svg">
+</p>
